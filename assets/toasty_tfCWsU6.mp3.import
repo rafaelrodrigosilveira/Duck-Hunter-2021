@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/toasty_tfCWsU6.mp3-e84bc75daae1c8568c29d1b8f7277516.mp3str"
+
+[deps]
+
+source_file="res://assets/toasty_tfCWsU6.mp3"
+dest_files=[ "res://.import/toasty_tfCWsU6.mp3-e84bc75daae1c8568c29d1b8f7277516.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
